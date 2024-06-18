@@ -20,7 +20,7 @@ GPU Used: GPU T4*2
 
 ![image](https://github.com/KaranS2111/Low_Light_Image_Denoising_VLG/assets/158291984/a9b89c0d-9ad0-49ee-9acc-d5f1fcbb6b7c)
 
-## Author
+## Project By
 
 Karan Sardar
 22118035
